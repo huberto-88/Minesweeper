@@ -17,7 +17,6 @@ public class Main {
             System.out.println("Set/delete mines marks (x and y coordinates):");
             game.userShot(scanner.nextInt(), scanner.nextInt());
         }
-
         System.out.println("Congratulations! You found all mines!");
     }
 }
