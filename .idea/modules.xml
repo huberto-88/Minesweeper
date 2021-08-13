@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Streams of primitives/A stream without zero/Minesweeper.Topics-Streams_of_primitives-A_stream_without_zero.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Streams of primitives/A stream without zero/Minesweeper.Topics-Streams_of_primitives-A_stream_without_zero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Streams of primitives/A stream without zero/Minesweeper.Topics-Streams_of_primitives-A_stream_without_zero.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Streams of primitives/A stream without zero/Minesweeper.Topics-Streams_of_primitives-A_stream_without_zero.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Streams of primitives/A stream without zero/Minesweeper.Topics-Streams_of_primitives-A_stream_without_zero.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Streams of primitives/A stream without zero/Minesweeper.Topics-Streams_of_primitives-A_stream_without_zero.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Streams of primitives/The average salary/Minesweeper.Topics-Streams_of_primitives-The_average_salary.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Streams of primitives/The average salary/Minesweeper.Topics-Streams_of_primitives-The_average_salary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Streams of primitives/The average salary/Minesweeper.Topics-Streams_of_primitives-The_average_salary.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Streams of primitives/The average salary/Minesweeper.Topics-Streams_of_primitives-The_average_salary.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Streams of primitives/The average salary/Minesweeper.Topics-Streams_of_primitives-The_average_salary.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Streams of primitives/The average salary/Minesweeper.Topics-Streams_of_primitives-The_average_salary.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Streams of primitives/Theory/Minesweeper.Topics-Streams_of_primitives-Theory.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Streams of primitives/Theory/Minesweeper.Topics-Streams_of_primitives-Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Streams of primitives/Theory/Minesweeper.Topics-Streams_of_primitives-Theory.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Streams of primitives/Theory/Minesweeper.Topics-Streams_of_primitives-Theory.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Streams of primitives/Theory/Minesweeper.Topics-Streams_of_primitives-Theory.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Streams of primitives/Theory/Minesweeper.Topics-Streams_of_primitives-Theory.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.test.iml" />
+    </modules>
+  </component>
+</project>
