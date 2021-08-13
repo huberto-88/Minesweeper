@@ -11,6 +11,8 @@ public class Main {
         game.setMines(scanner.nextInt());
         game.startNewGame();
 
+
+        System.out.println(game.getMines());
         while (game.getMines() > 0) {
             game.printField();
 

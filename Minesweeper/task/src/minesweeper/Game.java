@@ -57,7 +57,7 @@ public class Game {
     }
 
     public int getMines() {
-        return mines;
+        return this.mines;
     }
 
     public void setMines(int mines) {
@@ -82,6 +82,7 @@ public class Game {
      * */
     private void createNewField() {
         Random random = new Random();
+        int minesToInsert = mines;
 
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
@@ -90,13 +91,13 @@ public class Game {
         }
 
         /*inserting required numbers of mines into field by random().nextBoolean*/
-        while (mines > 0) {
+        while (minesToInsert > 0) {
             int x = random.nextInt(rows);
             int y = random.nextInt(cols);
 
             if (!field[x][y].equals("X")) {
                 field[x][y] = "X";
-                mines--;
+                minesToInsert--;
             }
         }
         minesCounter(field);
@@ -129,7 +130,7 @@ public class Game {
     private void hideAllMines(String[][] field) {
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
-                if (field[i][j].equals("X")) {
+                if ("0123456789X".contains(field[i][j])) {
                     field[i][j] = ".";
                 }
             }
